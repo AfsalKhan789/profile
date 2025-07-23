@@ -4,7 +4,7 @@
 
 🎯 Data Science Creator | 🧠 ML Builder | 📍 Trivandrum, India
 
-As a passionate data scientist learner i looking forward to work ability to make great achievement through by participatint the journey of the company
+As a passionate data scientist learner i looking forward to work my ability to accomplishing great achievement through by participatint the journey of the company
 
 ---
 
