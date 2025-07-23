@@ -1,8 +1,10 @@
 
-Hello everyone
+
 # 👋 Hi, I'm Afsal Khan
 
 🎯 Data Science Creator | 🧠 ML Builder | 📍 Trivandrum, India
+
+As a passionate data scientist learner i looking forward to work ability to make great achievement through by participatint the journey of the company
 
 ---
 
