@@ -1,4 +1,4 @@
-# profile
+
 Hello everyone
 # 👋 Hi, I'm Afsal Khan
 
